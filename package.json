@@ -4168,7 +4168,7 @@
       "integrity": "sha512-KMHP/Jq53jZKTY9iTUt3dIVl/be6UPs2INo96+BnZHLKxYNTfwMmlgHTaMWyGZoO74RI4AIFvnWhYrXq2USJkg=="
     }
   }
-},
-    "script": {
+}
+"script": {
         "start": "node bot.js"
     }
