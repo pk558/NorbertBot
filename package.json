@@ -154,7 +154,11 @@
             "strip-ansi": "^5.1.0"
           }
         }
-      }
+      },
+            "scripts": {
+          "test": "echo \"Error: no test specified\" && exit 1",
+          "start": "node bot.js"
+        }
     },
     "@heroku-cli/plugin-apps-v5": {
       "version": "7.34.0",
