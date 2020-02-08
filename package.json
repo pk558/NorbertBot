@@ -1,4 +1,4 @@
-"scripts": {
+"script": {
     "start": "node bot.js"
 },
 {
