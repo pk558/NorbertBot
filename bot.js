@@ -1,5 +1,5 @@
 const fs = require('fs');
-const Discord = require('/discord.js');
+const Discord = require('discord.js');
 const { prefix, token, photoFile } = require('./config.json');
 function getRandomInt(min, max) {
   min = Math.ceil(min);
